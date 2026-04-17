@@ -1,0 +1,414 @@
+[
+    {
+        "id": 1,
+        "name": "Sunset Floral Maxi Dress",
+        "price": "₦10,000.00",
+        "images": [
+            "images/gown/gown1.jpg"
+        ],
+        "category": "Gown",
+        "description": "An elegant off-the-shoulder maxi dress with a bold tropical floral print in orange and navy tones. Features a flowing skirt and a flattering cinched waist."
+    },
+    {
+        "id": 2,
+        "name": "Vibrant Leaf Print Bubu Kaftan",
+        "price": "₦10,000.00",
+        "images": [
+            "images/gown/gown2.jpg"
+        ],
+        "category": "Gown",
+        "isTrending":true,
+        "description":  "A stunning multi-colored Bubu dress featuring a bold leaf motif and delicate black lace accents. Designed for a loose, comfortable, and elegant fit."
+    },
+    {
+        "id": 3,
+        "name": "Kaleidoscope Geometric A-Line Maxi",
+        "price": "₦12,000.00",
+        "images": [
+            "images/gown/gown3.jpg"
+        ],
+        "category": "Gown",
+        "description": "A high-impact A-line maxi dress featuring a vibrant geometric mosaic print, short sleeves, and a full-volume flared skirt."
+    },
+    {
+        "id": 4,
+        "name": "Enchanted Rose Garden Maxi Gown",
+        "price": "₦13,000.00",
+        "images": [
+            "images/gown/gown4.jpg"
+        ],
+        "category": "Gown",
+        "description": "A vibrant maxi gown featuring a bold multi-colored rose print, a fitted waist with hidden pockets, and a full-length flared silhouette."
+    },
+    {
+        "id": 5,
+        "name": "Magenta Mosaic Kaftan with Prism Accents",
+        "price": "₦12,000.00",
+        "images": [
+            "images/gown/gown5.jpg"
+        ],
+        "category": "Gown",
+        "isTrending": true,
+        "description": "A stylish magenta midi kaftan featuring a textured line pattern, V-neckline, and a bold rainbow geometric accent on the collar and pocket."
+    },
+    {
+        "id": 6,
+        "name": "Emerald Mosaic Kaftan with Prism Accents",
+        "price": "₦12,000.00",
+        "images": [
+            "images/gown/gown6.jpg"
+        ],
+        "category": "Gown",
+        "description": "A refreshing lime-green midi kaftan featuring a textured pattern, V-neckline, and colorful rainbow geometric accents on the pocket and collar."
+    },
+    {
+        "id": 7,
+        "name": "Midnight Daisy Bubu Kaftan",
+        "price": "₦12,000.00",
+        "images": [
+            "images/gown/gown7.jpg"
+        ],
+        "category": "Gown",
+        "isTrending": true,
+        "description":  "A navy blue Bubu kaftan featuring a bold orange daisy print, finished with sparkling black sequin trim along the neckline and front."
+    },
+    {
+        "id": 8,
+        "name": "Crimson Wave Ruched Maxi Dress",
+        "price": "₦12,000.00",
+        "images": [
+            "images/gown/gown8.jpg"
+        ],
+        "category": "Gown",
+        "isTrending": true,
+        "description": "A dynamic red and orange maxi dress with a wavy abstract print, featuring adjustable ruched sleeves and a full flared skirt."
+    },
+    {
+        "id": 9,
+        "name": "Fuchsia Mosaic Puff-Sleeve Gown",
+        "price": "₦12,000.00",
+        "images": [
+            "images/gown/gown9.jpg"
+        ],
+        "category": "Gown",
+        "description": "A luxury fuchsia maxi gown featuring dramatic puff sleeves with ribbon ties, a fitted waist, and a full, patterned mosaic skirt."
+    },
+    {
+        "id": 10,
+        "name": "Emerald Mosaic Puff-Sleeve Gown",
+        "price": "₦10,000.00",
+        "images": [
+            "images/gown/gown10.jpg"
+        ],
+        "category": "Gown",
+        "isTrending": true,
+        "description": "A vibrant lime-green maxi gown with an abstract mosaic pattern, featuring oversized puff sleeves with adjustable ties and a full-volume skirt."
+    },
+    {
+        "id": 11,
+        "name": "Cobalt Floral Bubu Tent Dress",
+        "price": "₦12,000.00",
+        "images": [
+            "images/gown/gown11.jpg"
+        ],
+        "category": "Gown",
+        "isTrending": true,
+        "description":  "A classic Bubu-style tent dress in a deep cobalt blue with a white floral stamp print. Features playful ruffled straps and contrasting geometric-print patch pockets for a modern twist on a traditional silhouette."
+    },
+    {
+        "id": 12,
+        "name": "Fuchsia Tiered Prism Gown",
+        "price": "₦12,000.00",
+        "images": [
+            "images/gown/gown12.jpg"
+        ],
+        "category": "Gown",
+        "description": "A solid magenta maxi gown featuring a square neckline and two decorative tiered ruffles in a vibrant, multi-colored geometric print."
+    },
+    {
+        "id": 13,
+        "name": "Forest Green Tiered Prism Gown",
+        "price": "₦12,000.00",
+        "images": [
+            "images/gown/gown13.jpg"
+        ],
+        "category": "Gown",
+        "isTrending": true,
+        "description": "A deep forest green maxi gown featuring a sweetheart neckline and two decorative tiered ruffles in contrasting rainbow geometric patterns."
+    },
+    {
+        "id": 14,
+        "name": "Tropical Paradise Collared Maxi Gown",
+        "price": "₦10,000.00",
+        "images": [
+            "images/gown/gown14.jpg"
+        ],
+        "category": "Gown",
+        "description": "A sophisticated shirt-style maxi gown featuring a vibrant multi-colored tropical leaf print, a pointed collar, and a dramatic flared skirt."
+    },
+    {
+        "id": 15,
+        "name": "Onyx Orbit Collared Maxi Gown",
+        "price": "₦13,000.00",
+        "images": [
+            "images/gown/gown15.jpg"
+        ],
+        "category": "Gown",
+        "description": "A tailored shirt-style maxi gown featuring a black base with a colorful ring pattern, a pointed collar, and a voluminous flared skirt."
+    },
+    {
+        "id": 16,
+        "name": "Fuchsia Abstract Origami Maxi Gown",
+        "price": "₦13,000.00",
+        "images": [
+            "images/gown/gown16.jpg"
+        ],
+        "category": "Gown",
+        "description": "An avant-garde maxi gown featuring a bold multi-colored geometric abstract print and a modern asymmetric off-the-shoulder neckline."
+    },
+    {
+        "id": 17,
+        "name": "Onyx Flare Midi Dress with Pink Mosaic Insets",
+        "price": "₦14,000.00",
+        "images": [
+            "images/gown/gown17.jpg"
+        ],
+        "category": "Gown",
+        "description": "A sophisticated black midi dress with a flared skirt featuring contrasting pink geometric print insets for a dynamic, stylish look."
+    },
+    {
+        "id": 18,
+        "name":  "Azure Flow V-Neck Maxi",
+        "price": "₦10,000.00",
+        "images": [
+            "images/gown/gown18.jpg"
+        ],
+        "category": "Gown",
+        "description": "A graceful maxi dress featuring a fluid wavy print in shades of blue and white, with a classic V-neck and a soft flared silhouette."
+    },
+    {
+        "id": 19,
+        "name": "Fuchsia Bloom Bubu Tent Dress",
+        "price": "₦10,000.00",
+        "images": [
+            "images/gown/gown19.jpg"
+        ],
+        "category": "Gown",
+        "description": "A playful and airy Bubu-style tent dress in vibrant fuchsia pink with a white floral stamp pattern. Features ruffled straps in a multi-colored geometric print and matching oversized front patch pockets."
+    },
+    {
+        "id": 20,
+        "name": "Fuchsia & Citrus Tiered Maxi Gown",
+        "price": "₦10,000.00",
+        "images": [
+            "images/gown/gown20.jpg"
+        ],
+        "category": "Gown",
+        "isTrending": true,
+        "description": "A vibrant tiered maxi gown featuring a fuchsia pink bodice with a white floral stamp pattern and capped sleeves. The voluminous skirt transitions into alternating tiers of sunny yellow, emerald green, and orange, all adorned with a matching circular motif."
+    },
+    {
+        "id": 21,
+        "name": "Magenta Mosaic One-Shoulder Gown",
+        "price": "₦12,000.00",
+        "images": [
+            "images/gown/gown21.jpg"
+        ],
+        "category": "Gown",
+        "description": "An elegant and modern one-shoulder maxi gown featuring a dramatic puff sleeve and a rich magenta mosaic-patterned fabric."
+    },
+    {
+        "id": 22,
+        "name": "Fuchsia Tiered Prism Gown",
+        "price": "₦13,000.00",
+        "images": [
+            "images/gown/gown22.jpg"
+        ],
+        "category": "Gown",
+        "description": "A striking solid fuchsia maxi gown featuring a sweetheart neckline and two decorative tiered ruffles in a vibrant, multi-colored geometric prism print."
+    },
+    {
+        "id": 23,
+        "name": "Emerald Geometric Mini Skater Dress",
+        "price": "₦10,000.00",
+        "images": [
+            "images/gown/gown23.jpg"
+        ],
+        "category": "Gown",
+        "description": "A vibrant emerald and lime green mini dress featuring a bold diamond geometric pattern, a flattering V-neckline, and adjustable ruched tie-sleeves."
+    },
+    {
+        "id": 24,
+        "name": "Azure Blossom Bubu Maxi",
+        "price": "₦12,000.00",
+        "images": [
+            "images/gown/gown24.jpg"
+        ],
+        "category": "Gown",
+        "description": "A full-length, voluminous Bubu maxi dress in rich royal blue, adorned with a white floral stamp pattern. It features playful ruffled tie-shoulders and signature multi-colored geometric patch pockets."
+    },
+    {
+        "id": 25,
+        "name": "Autumn Bloom Off-Shoulder Gown",
+        "price": "₦10,000.00",
+        "images": [
+            "images/gown/gown25.jpg"
+        ],
+        "category": "Gown",
+        "description": "A breathtaking floor-length gown featuring an off-the-shoulder neckline and a vibrant floral print in shades of burnt orange, amber, and deep cocoa."
+    },
+    {
+        "id": 26,
+        "name": "Magenta Heart-Print Ruched Maxi Gown",
+        "price": "₦12,000.00",
+        "images": [
+            "images/gown/gown26.jpg"
+        ],
+        "category": "Gown",
+        "isTrending":true,
+        "description": "A charming and vibrant fuchsia maxi gown featuring a bold white and orange heart-motif print, a flattering V-neckline, and adjustable ruched tie-sleeves for a feminine finish."
+    },
+    {
+        "id": 27,
+        "name": "Scarlet Horizon Strap Gown",
+        "price": "₦13,000.00",
+        "images": [
+            "images/gown/gown27.jpg"
+        ],
+        "category": "Gown",
+        "description": "A striking maxi gown featuring a solid crimson red sleeveless bodice with thick straps, flowing into a voluminous skirt with a teal, orange, and black abstract painterly print."
+    },
+    {
+        "id": 28,
+        "name": "Harvest Leaf Collared Maxi Gown",
+        "price": "₦15,000.00",
+        "images": [
+            "images/gown/gown28.jpg"
+        ],
+        "category": "Gown",
+        "description": "A vibrant, floor-length shirt-dress featuring a bold autumnal leaf pattern in shades of red, blue, green, and yellow with a structured pointed collar and short sleeves."
+    },
+    {
+        "id": 29,
+        "name": "Sapphire & Amber Mosaic Kaftan",
+        "price": "₦12,000.00",
+        "images": [
+            "images/gown/gown29.jpg"
+        ],
+        "category": "Gown",
+        "isTrending": true,
+        "description":  "A relaxed-fit Bubu-style kaftan featuring a rich sapphire blue base with intricate amber and gold mosaic patterns and a classic V-neckline."
+    },
+    {
+        "id": 30,
+        "name":  "Teal Adire Silk Kaftan",
+        "price": "₦10,000.00",
+        "images": [
+            "images/gown/gown30.jpg"
+        ],
+        "category": "Gown",
+        "description": "A luxurious full-length silk kaftan featuring a traditional teal and black Adire tie-dye pattern, designed with a contrasting black V-neckline and functional front pockets."
+    },
+    {
+        "id": 31,
+        "name": "Sunset Adire Batik Silk Kaftan",
+        "price": "₦195.00",
+        "images": [
+            "images/gown/gown31.jpg"
+        ],
+        "category": "Gown",
+        "description": "A luxurious full-length silk kaftan featuring a vibrant sunset-inspired palette of magenta, orange, and yellow in a traditional batik tie-dye pattern, finished with a contrasting black V-neckline and deep front pockets."
+    },
+    {
+        "id": 32,
+        "name":  "Fuchsia Blossom Bubu Maxi",
+        "price": "₦10,000.00",
+        "images": [
+            "images/gown/gown32.jpg"
+        ],
+        "category": "Gown",
+        "description":  "A floor-length, voluminous Bubu maxi gown in vibrant fuchsia pink with a white floral stamp pattern. Features multi-colored geometric print ruffled straps and matching oversized patch pockets for a bold, traditional-meets-modern look."
+    },
+    {
+        "id": 33,
+        "name": "Mosaic High-Waist Maxi Skirt",
+        "price": "₦10,000.00",
+        "images": [
+            "images/skirt/skirt1.jpg"
+        ],
+        "isTrending":true,
+        "category": "Skirt",
+        "description": "A vibrant and voluminous maxi skirt featuring a high-waisted band with black and white tribal motifs, flowing into a multi-colored geometric mosaic print in primary tones."
+    },
+    {
+        "id": 34,
+        "name": "Emerald Orbit Flare Midi Dress",
+        "price": "₦12,000.00",
+        "images": [
+            "images/skirtAndBlouse/skirtandblouse1.jpg"
+        ],
+        "isTrending":true,
+        "category": "Skirt and Blouse",
+        "description": "A sophisticated forest green midi dress featuring a structured bodice and a flared skirt with vibrant lime and white geometric 'orbit' print insets."
+    },
+    {
+        "id": 35,
+        "name": "Cloud White Relaxed Two-Piece Set",
+        "price": "₦13,000.00",
+        "images": [
+            "images/topAndTrouser/topandtrouser1.jpg"
+        ],
+        "category": "Top and Trouser",
+        "description":  "A chic and effortless all-white ensemble featuring a short-sleeved button-down shirt with a structured collar and matching wide-leg trousers for a clean, modern aesthetic."
+    },
+    {
+        "id": 36,
+        "name": "Turquoise Paint-Splatter Tunic Set",
+        "price": "₦15,000.00",
+        "images": [
+            "images/topAndTrouser/topandtrouser2.jpg"
+        ],
+        "category": "Top and Trouser",
+        "description":  "A bold and artistic two-piece set featuring a longline turquoise tunic with a high mandarin collar and matching wide-leg trousers, all adorned with a vibrant, multi-colored abstract paint-splatter motif."
+    },
+    {
+        "id": 37,
+        "name":  "Tropical Leaf Asymmetric Tunic Set",
+        "price": "₦15,000.00",
+        "images": [
+            "images/topAndTrouser/topandtrouser3.jpg"
+        ],
+        "category": "Top and Trouser",
+        "description": "A striking two-piece set featuring an asymmetric-cut tunic in a vibrant multi-colored tropical monstera leaf print, paired with tailored wide-leg trousers in a bold fuchsia pink."
+    },
+    {
+        "id": 38,
+        "name": "Garden & Groove Tunic Set",
+        "price": "₦15,000.00",
+        "images": [
+            "images/topAndTrouser/topandtrouser4.jpg"
+        ],
+        "category": "Top and Trouser",
+        "description": "A sophisticated pattern-clash set featuring a short-sleeved tunic with a vibrant pink and blue floral motif on a lime green leafy background, paired with wide-leg trousers in a striking green and black organic zebra-style print."
+    },
+    {
+        "id": 39,
+        "name": "Cobalt & Amber Abstract Tunic Set",
+        "price": "₦15,000.00",
+        "images": [
+            "images/topAndTrouser/topandtrouser5.jpg"
+        ],
+        "category": "Top and Trouser",
+        "description":  "A striking two-piece set featuring a longline tunic with a high mandarin collar in an abstract cobalt blue, amber, and black print, paired with matching wide-leg trousers for a seamless, artistic look."
+    },
+    {
+        "id": 40,
+        "name": "Mosaic Cargo Wide-Leg Trousers",
+        "price": "₦10,000.00",
+        "images": [
+            "images/trousers/trouser1.jpg"
+        ],
+        "category": "Trousers",
+        "description": "Artisanal-print wide-leg trousers that combine traditional mosaic patterns with modern utility. Featuring oversized lime green cargo pockets and a relaxed, extra-long silhouette for a bold streetwear statement."
+    }
+]

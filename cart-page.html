@@ -1,0 +1,145 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Discover the latest trends in fashion for women at 7k ClothingStore.">
+    <meta name="keywords" content="clothes, women, fashion, bags, 7k ClothingStore">
+    <meta name="author" content="7k ClothingStore">
+    <link rel="icon" href="images/logo_block.jpg" type="image/x-icon">
+    
+    <link rel="stylesheet" href="style/cart-page.css">
+    <link rel="stylesheet" href="style/main.css">
+    
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Josefin+Sans:ital,wght@0,100..700;1,100..700&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Rubik:ital,wght@0,300..900;1,300..900&display=swap" rel="stylesheet">
+    
+    <script type="module" src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.esm.js"></script>
+    <script nomodule src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.js"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+    <title>7k Clothing Store - Shopping Bag</title>
+</head>
+
+<body>
+    <header id="header">
+        <div class="header_container">
+            <div class="header_logo">
+                <a href="index.html">
+                    <img src="images/logo_block.jpg" alt="7k Clothing Store" id="logo">
+                </a>
+            </div>
+
+            <nav id="navbar">
+                <ul class="nav_list">
+                    <li><a href="index.html" class="nav_link">Home</a></li>
+                    <li><a href="products.html" class="nav_link">Shop</a></li>
+                </ul>
+            </nav>
+
+            <div class="header_actions">
+                <a href="#" class="action_btn" id="searchTrigger" title="Search">
+                   <i class="fa-solid fa-magnifying-glass"></i>
+                </a>
+                <a href="#" class="icon-cart action_btn" title="Cart">
+                    <i class="fa-solid fa-cart-shopping"></i>
+                    <span id="cart-counter">0</span>
+                </a>
+                
+                <div class="search_overlay" id="searchOverlay">
+                    <div class="search_content">
+                        <div class="search_input_group">
+                            <input type="text" id="searchInput" placeholder="Search products..." autocomplete="off">
+                            <button id="closeSearch" type="button"><i class="fa-solid fa-xmark"></i></button>
+                        </div>
+                        <ul id="suggestionsList" class="suggestions_list"></ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </header>
+
+    <main class="cart_page">
+        <div class="container">
+            <h1>Shopping Bag</h1>
+            <div class="content">
+                <div class="left_side_cart">
+                    <div class="cart_title">
+                        <h2>My shopping bag <span id="cart_counts"></span></h2>
+                    </div>
+                    <div class="cart_products">
+                        </div>
+                </div>
+                <div class="right_side_cart">
+                    <div class="summary">
+                        <h2>Order Summary</h2>
+                        <div class="summary_price">
+                            <div>
+                                <h4>Total Order</h4>
+                                <span id="total_order"></span>
+                            </div>
+                        </div>
+                        <button class="checkout" onclick="checkOut();">Check Out</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </main>
+
+    <div class="cart-section">
+        <div class="cart-header">
+            <h2>SHOPPING CART</h2>
+            <div class="closeCart">
+                <ion-icon name="close-outline" id="closeCart"></ion-icon>
+            </div>
+        </div>
+        <div class="cart_products_side"> </div>
+        <div class="cart_total">
+            <h3>Total:</h3>
+            <span id="total_price"></span>
+        </div>
+        <div class="btn_control">
+            <button class="viewCart" onclick="viewCart();">View Cart</button>
+            <button class="checkout" onclick="checkOut();">Check Out</button>
+        </div>
+    </div>
+
+    <footer class="footer black-footer">
+        <div class="footer-top">
+            <div class="footer-logo">
+                <img src="images/logo_block.jpg" alt="logo" width="140">
+                <p>The customer is at the heart of our unique business model.</p>
+            </div>
+            <div class="footer-list">
+                <div class="list">
+                    <h4>Contact Info</h4>
+                    <ul>
+                        <li><a href="tel:+2349155403596"><i class="fa-solid fa-phone"></i> +234 915 540 3596</a></li>
+                        <li><a href="mailto:7kclothingstore@gmail.com"><i class="fa-solid fa-envelope"></i> 7kclothingstore@gmail.com</a></li>
+                        <li><i class="fa-solid fa-location-dot"></i> Plot 586, Lagos, Nigeria.</li>
+                    </ul>
+                </div>
+                <div class="list">
+                    <h4>Follow Us</h4>
+                    <ul class="icon">
+                        <a href="https://www.instagram.com/7kclothingstore" target="_blank"><i class="fa-brands fa-instagram"></i></a>
+                        <a href="https://wa.me/2349155403596" target="_blank"><i class="fa-brands fa-whatsapp"></i></a>
+                        <a href="https://www.threads.com/@7kclothingstore?igshid=NTc4MTIwNjQ2YQ==" target="_blank"><i class="fa-brands fa-threads"></i></a>
+                        <a href="https://www.tiktok.com/@7kclothingstore?_r=1&_t=ZS-94FWKmo0oH1" target="_blank"><i class="fa-brands fa-tiktok"></i></a>
+                    </ul>
+                </div>
+            </div>
+        </div>
+        <div class="footer-bottom">
+            <p>© 2026 All right reserved. Made by <a href="https://wa.me/2348130221744" target="_blank" id="author">Egobi Gabriel</a></p>
+        </div>
+    </footer>
+
+    <button id="scrollBtn"><ion-icon name="arrow-up-outline" id="btn-up"></ion-icon></button>
+
+    <script src="javascript/main.js" defer></script>
+    <script src="javascript/cart.js" defer></script>
+</body>
+
+</html>
