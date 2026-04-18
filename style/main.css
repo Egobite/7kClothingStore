@@ -943,12 +943,8 @@ body.showCart .cart-section {
         width: 120px;
     }
     .news{
-        
+        height: 250px;
         flex-direction: column;
-    }
-    .news .Subscribe-form {
-        
-        margin-top: 20px;
     }
 
     @keyframes continuousSlideLeft {
